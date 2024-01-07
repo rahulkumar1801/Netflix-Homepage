@@ -11,7 +11,7 @@ body {
 
   background-color: rgba(8, 8, 8, 0.89);
 }
-
+/* for tutorial only */
 .navbar {
   display: flex;
   flex-direction: row;
